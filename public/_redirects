@@ -1,0 +1,1 @@
+/api/v1/*  http://ec2-13-233-145-172.ap-south-1.compute.amazonaws.com:9000/api/v1/:splat  200
